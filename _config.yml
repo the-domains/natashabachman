@@ -1,0 +1,28 @@
+name: natashabachman
+favicon: null
+layout_spectrum: 0.9167988963890821
+typography_spectrum: 0.9824896319769323
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.41909511224366724
+  lightness: 0.3303241725079715
+  saturation: 0.8257516147568822
+  rhythmicContrast: 0.26653125137090683
+purpose: []
