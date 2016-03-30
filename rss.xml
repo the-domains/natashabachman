@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[natashabachman]]></title>
+        <description><![CDATA[natashabachman]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 30 Mar 2016 19:37:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Baptiste Yoga: 10 Yoga Poses to Help You Love Your Body]]></title>
+            <description><![CDATA[<article><h1>Baptiste Yoga: 10 Yoga Poses to Help You Love Your Body</h1><p>Master Baptiste Yoga teacher Leah Cullis, who leads YJ's online course (), demonstrates 10 poses that will help you love and accept your body. Yoga gives us the opportunity to find peace in the ways things already are and that includes our bodies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/00b422d6b7314f64efa278bf16aaaa1bdbd113bf.jpg"></article>]]></description>
+            <link>http://www.yogajournal.com/slideshow/baptiste-yoga-poses-help-love-body/</link>
+            <guid isPermaLink="false">a60a55ef-54de-4690-8eee-35b61a094160</guid>
+            <pubDate>Wed, 30 Mar 2016 19:37:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
